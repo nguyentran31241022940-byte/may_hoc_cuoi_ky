@@ -1,1 +1,1 @@
-# may_hoc_cuoi_ky
+Repo-Github được tạo ra cho mục đích nộp bài thi cuối kì.
